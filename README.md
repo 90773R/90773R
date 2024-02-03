@@ -1,4 +1,4 @@
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31F737&center=true&random=false&width=435&lines=+hi%2C+I+am+P0773R;Ethical+hacking;+I+love+the+code;+I+like+challenges" alt="Typing SVG" /></a></center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31F737&center=true&random=false&width=435&lines=+hi%2C+I+am+P0773R;Ethical+hacking;+I+love+the+code;+I+like+challenges" alt="Typing SVG" /></a>
 
 
 #  who a mi:
